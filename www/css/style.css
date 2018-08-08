@@ -1,0 +1,25 @@
+
+
+.logo-wrapper {
+
+}
+
+.logo-wrapper .imgly-icon {
+    display: block;
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+.log-wrapper .logo-text {
+    font-size: 1.5rem;
+}
+
+#imgly-form {
+    max-width: 500px;
+        margin:0 auto;
+        display: block;
+}
+
+.news-column {
+    padding: 2rem;
+}
